@@ -33,3 +33,5 @@ const leftJoin = (map1, map2) => {
 }
 
 console.log(leftJoin(one, two));
+
+// export default leftJoin;
